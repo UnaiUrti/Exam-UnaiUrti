@@ -53,7 +53,7 @@ public void subirsalario (double subida) {
 }
 
 /**
- * subirsalario es un metodo el cual aumenta la cantidad de la variable salario con un parametro enviado por otra clase
+ * subirsalario() es un metodo el cual aumenta la cantidad de la variable salario con un parametro enviado por otra clase
  */
 
 }
